@@ -28,7 +28,7 @@ Data sets are too large to be shared. All data sets are publicly available with 
 
 A sample  melanoma data is shared for a demonstration at MIST github repo: https://github.com/linhuawang/MIST.
 
-### raw count data (without imputation): 
+### Raw count data (without imputation): 
 Raw count data for 4 relatively small datasets are provided at our previous repo: https://github.com/LiuzLab/MIST_manuscript.
 
 * ./data/MouseWT/raw.csv
@@ -38,7 +38,7 @@ Raw count data for 4 relatively small datasets are provided at our previous repo
 
 The other nine data sets used in the manuscript could be downloaded from [10X](https://www.10xgenomics.com/resources/datasets?query=&page=1&configure%5Bfacets%5D%5B0%5D=chemistryVersionAndThroughput&configure%5Bfacets%5D%5B1%5D=pipeline.version&configure%5BhitsPerPage%5D=500&menu%5Bproducts.name%5D=Spatial%20Gene%20Expression).
 
-### external validation data
+### External validation data
 Another single-cell RNA-sequencing cohort, which includes 16 mice brains with expressiondata for 37089 single cells published by Methodios Ximerakis in 2019 (GSE129788)was used to further validate the co-expression patterns of the two pairs of genes, Cldn11-Arhgef10and Gfap-Aqp4.
 
 Ximerakis, M. et al.Single-cell transcriptomic profiling of the aging mouse brain. Nat. Neurosci.22, 1696–1708 (2019).
