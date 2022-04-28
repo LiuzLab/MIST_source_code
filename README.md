@@ -74,3 +74,7 @@ Notebook `analysis_scripts/2-Figure2f.ipynb` was used to generate benchmarking r
 
 5. Other extended and supplementary figures:
 * 11-Ext-Fig 7-augmentation-improvement.ipynb
+
+"""
+Note to authors: the path to the data on server is at: /houston_20t/alexw/ST/MIST_additional_holdout.
+"""
