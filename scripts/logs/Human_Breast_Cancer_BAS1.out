@@ -1,0 +1,1045 @@
+  0%|          | 0/17 [00:00<?, ?it/s]  6%|▌         | 1/17 [00:01<00:24,  1.52s/it] 12%|█▏        | 2/17 [00:02<00:22,  1.48s/it] 18%|█▊        | 3/17 [00:04<00:20,  1.46s/it] 24%|██▎       | 4/17 [00:05<00:18,  1.45s/it] 29%|██▉       | 5/17 [00:07<00:17,  1.44s/it] 35%|███▌      | 6/17 [00:08<00:15,  1.43s/it] 41%|████      | 7/17 [00:09<00:14,  1.43s/it] 47%|████▋     | 8/17 [00:11<00:12,  1.44s/it] 53%|█████▎    | 9/17 [00:12<00:11,  1.45s/it] 59%|█████▉    | 10/17 [00:14<00:10,  1.46s/it] 65%|██████▍   | 11/17 [00:16<00:09,  1.62s/it] 71%|███████   | 12/17 [00:19<00:10,  2.17s/it] 76%|███████▋  | 13/17 [00:23<00:10,  2.70s/it] 82%|████████▏ | 14/17 [00:28<00:09,  3.18s/it] 88%|████████▊ | 15/17 [00:32<00:07,  3.62s/it] 94%|█████████▍| 16/17 [00:36<00:03,  3.76s/it]100%|██████████| 17/17 [00:40<00:00,  3.83s/it]100%|██████████| 17/17 [00:40<00:00,  2.40s/it]MIST Data created in 112.42 seconds.
+Epsilon 0.750 is selected in 44.63 seconds.
+9 regions detected.
+[Start][Region] 0 / 9 | [Spots] 790 | 790 / 2434.
+
+[0 / 5] imputation started with 1083 observations and 4818 varaibles.
+[0 / 5] imputation completed in 1764.3 seconds.
+[0 / 1] imputation started with 1084 observations and 4818 varaibles.
+[0 / 1] imputation completed in 1850.1 seconds.
+[0 / 9] imputation started with 1082 observations and 4818 varaibles.
+[0 / 9] imputation completed in 1817.2 seconds.
+[0 / 4] imputation started with 1083 observations and 4818 varaibles.
+[0 / 4] imputation completed in 1895.4 seconds.
+[0 / 8] imputation started with 1082 observations and 4818 varaibles.
+[0 / 8] imputation completed in 1970.4 seconds.
+[0 / 0] imputation started with 1084 observations and 4818 varaibles.
+[0 / 0] imputation completed in 2061.7 seconds.
+[0 / 6] imputation started with 1083 observations and 4818 varaibles.
+[0 / 6] imputation completed in 1922.5 seconds.
+[0 / 7] imputation started with 1083 observations and 4818 varaibles.
+[0 / 7] imputation completed in 1980.8 seconds.
+[0 / 3] imputation started with 1084 observations and 4818 varaibles.
+[0 / 3] imputation completed in 2024.8 seconds.
+[0 / 2] imputation started with 1084 observations and 4818 varaibles.
+[0 / 2] imputation completed in 2065.8 seconds.
+[End][Region] 0 / 9 | [Elapsed] 2178.7 seconds.
+[Start][Region] 1 / 9 | [Spots] 102 | 892 / 2434.
+[1 / 0] imputation started with 465 observations and 4818 varaibles.
+[1 / 0] imputation completed in 701.5 seconds.
+[1 / 6] imputation started with 464 observations and 4818 varaibles.
+[1 / 6] imputation completed in 707.4 seconds.
+[1 / 9] imputation started with 463 observations and 4818 varaibles.
+[1 / 9] imputation completed in 763.2 seconds.
+[1 / 7] imputation started with 464 observations and 4818 varaibles.
+[1 / 7] imputation completed in 749.7 seconds.
+[1 / 4] imputation started with 464 observations and 4818 varaibles.
+[1 / 4] imputation completed in 777.3 seconds.
+[1 / 8] imputation started with 463 observations and 4818 varaibles.
+[1 / 8] imputation completed in 784.7 seconds.
+[1 / 3] imputation started with 464 observations and 4818 varaibles.
+[1 / 3] imputation completed in 786.3 seconds.
+[1 / 2] imputation started with 464 observations and 4818 varaibles.
+[1 / 2] imputation completed in 751.9 seconds.
+[1 / 1] imputation started with 465 observations and 4818 varaibles.
+[1 / 1] imputation completed in 790.4 seconds.
+[1 / 5] imputation started with 464 observations and 4818 varaibles.
+[1 / 5] imputation completed in 798.6 seconds.
+[End][Region] 1 / 9 | [Elapsed] 800.2 seconds.
+[Start][Region] 2 / 9 | [Spots] 386 | 1278 / 2434.
+[2 / 8] imputation started with 718 observations and 4818 varaibles.
+[2 / 8] imputation completed in 845.2 seconds.
+[2 / 9] imputation started with 718 observations and 4818 varaibles.
+[2 / 9] imputation completed in 892.1 seconds.
+[2 / 4] imputation started with 720 observations and 4818 varaibles.
+[2 / 4] imputation completed in 920.4 seconds.
+[2 / 2] imputation started with 720 observations and 4818 varaibles.
+[2 / 2] imputation completed in 1024.4 seconds.
+[2 / 5] imputation started with 720 observations and 4818 varaibles.
+[2 / 5] imputation completed in 1234.6 seconds.
+[2 / 0] imputation started with 720 observations and 4818 varaibles.
+[2 / 0] imputation completed in 1251.9 seconds.
+[2 / 3] imputation started with 720 observations and 4818 varaibles.
+[2 / 3] imputation completed in 1056.2 seconds.
+[2 / 1] imputation started with 720 observations and 4818 varaibles.
+[2 / 1] imputation completed in 1083.7 seconds.
+[2 / 7] imputation started with 720 observations and 4818 varaibles.
+[2 / 7] imputation completed in 1266.8 seconds.
+[2 / 6] imputation started with 720 observations and 4818 varaibles.
+[2 / 6] imputation completed in 1276.9 seconds.
+[End][Region] 2 / 9 | [Elapsed] 1279.1 seconds.
+[Start][Region] 3 / 9 | [Spots] 65 | 1343 / 2434.
+[3 / 7] imputation started with 431 observations and 4818 varaibles.
+[3 / 7] imputation completed in 522.4 seconds.
+[3 / 9] imputation started with 429 observations and 4818 varaibles.
+[3 / 9] imputation completed in 590.1 seconds.
+[3 / 1] imputation started with 431 observations and 4818 varaibles.
+[3 / 1] imputation completed in 627.3 seconds.
+[3 / 0] imputation started with 431 observations and 4818 varaibles.
+[3 / 0] imputation completed in 667.6 seconds.
+[3 / 4] imputation started with 431 observations and 4818 varaibles.
+[3 / 4] imputation completed in 694.6 seconds.
+[3 / 6] imputation started with 431 observations and 4818 varaibles.
+[3 / 6] imputation completed in 743.4 seconds.
+[3 / 5] imputation started with 431 observations and 4818 varaibles.
+[3 / 5] imputation completed in 778.3 seconds.
+[3 / 2] imputation started with 431 observations and 4818 varaibles.
+[3 / 2] imputation completed in 786.6 seconds.
+[3 / 3] imputation started with 431 observations and 4818 varaibles.
+[3 / 3] imputation completed in 792.8 seconds.
+[3 / 8] imputation started with 430 observations and 4818 varaibles.
+[3 / 8] imputation completed in 719.7 seconds.
+[End][Region] 3 / 9 | [Elapsed] 794.0 seconds.
+[Start][Region] 4 / 9 | [Spots] 163 | 1506 / 2434.
+[4 / 0] imputation started with 520 observations and 4818 varaibles.
+[4 / 0] imputation completed in 780.8 seconds.
+[4 / 2] imputation started with 519 observations and 4818 varaibles.
+[4 / 2] imputation completed in 850.0 seconds.
+[4 / 6] imputation started with 519 observations and 4818 varaibles.
+[4 / 6] imputation completed in 868.2 seconds.
+[4 / 5] imputation started with 519 observations and 4818 varaibles.
+[4 / 5] imputation completed in 878.3 seconds.
+[4 / 7] imputation started with 519 observations and 4818 varaibles.
+[4 / 7] imputation completed in 940.0 seconds.
+[4 / 3] imputation started with 519 observations and 4818 varaibles.
+[4 / 3] imputation completed in 1059.9 seconds.
+[4 / 4] imputation started with 519 observations and 4818 varaibles.
+[4 / 4] imputation completed in 1079.7 seconds.
+[4 / 9] imputation started with 518 observations and 4818 varaibles.
+[4 / 9] imputation completed in 1080.3 seconds.
+[4 / 8] imputation started with 518 observations and 4818 varaibles.
+[4 / 8] imputation completed in 1096.4 seconds.
+[4 / 1] imputation started with 519 observations and 4818 varaibles.
+[4 / 1] imputation completed in 1048.1 seconds.
+[End][Region] 4 / 9 | [Elapsed] 1098.1 seconds.
+[Start][Region] 5 / 9 | [Spots] 201 | 1707 / 2434.
+[5 / 4] imputation started with 553 observations and 4818 varaibles.
+[5 / 4] imputation completed in 810.4 seconds.
+[5 / 0] imputation started with 554 observations and 4818 varaibles.
+[5 / 0] imputation completed in 817.9 seconds.
+[5 / 9] imputation started with 552 observations and 4818 varaibles.
+[5 / 9] imputation completed in 1093.1 seconds.
+[5 / 1] imputation started with 554 observations and 4818 varaibles.
+[5 / 1] imputation completed in 1116.4 seconds.
+[5 / 6] imputation started with 553 observations and 4818 varaibles.
+[5 / 6] imputation completed in 1119.8 seconds.
+[5 / 5] imputation started with 553 observations and 4818 varaibles.
+[5 / 5] imputation completed in 1161.8 seconds.
+[5 / 8] imputation started with 552 observations and 4818 varaibles.
+[5 / 8] imputation completed in 1138.7 seconds.
+[5 / 2] imputation started with 554 observations and 4818 varaibles.
+[5 / 2] imputation completed in 1175.2 seconds.
+[5 / 3] imputation started with 553 observations and 4818 varaibles.
+[5 / 3] imputation completed in 1147.5 seconds.
+[5 / 7] imputation started with 553 observations and 4818 varaibles.
+[5 / 7] imputation completed in 1180.0 seconds.
+[End][Region] 5 / 9 | [Elapsed] 1181.6 seconds.
+[Start][Region] 6 / 9 | [Spots] 548 | 2255 / 2434.
+[6 / 4] imputation started with 866 observations and 4818 varaibles.
+[6 / 4] imputation completed in 1797.4 seconds.
+[6 / 2] imputation started with 866 observations and 4818 varaibles.
+[6 / 2] imputation completed in 1847.6 seconds.
+[6 / 8] imputation started with 864 observations and 4818 varaibles.
+[6 / 8] imputation completed in 2382.8 seconds.
+[6 / 0] imputation started with 866 observations and 4818 varaibles.
+[6 / 0] imputation completed in 2430.1 seconds.
+[6 / 6] imputation started with 865 observations and 4818 varaibles.
+[6 / 6] imputation completed in 2472.7 seconds.
+[6 / 9] imputation started with 864 observations and 4818 varaibles.
+[6 / 9] imputation completed in 1898.2 seconds.
+[6 / 1] imputation started with 866 observations and 4818 varaibles.
+[6 / 1] imputation completed in 2544.9 seconds.
+[6 / 5] imputation started with 866 observations and 4818 varaibles.
+[6 / 5] imputation completed in 2572.3 seconds.
+[6 / 7] imputation started with 865 observations and 4818 varaibles.
+[6 / 7] imputation completed in 2589.6 seconds.
+[6 / 3] imputation started with 866 observations and 4818 varaibles.
+[6 / 3] imputation completed in 2586.5 seconds.
+[End][Region] 6 / 9 | [Elapsed] 2593.0 seconds.
+[Start][Region] 7 / 9 | [Spots] 137 | 2392 / 2434.
+[7 / 7] imputation started with 495 observations and 4818 varaibles.
+[7 / 7] imputation completed in 600.0 seconds.
+[7 / 6] imputation started with 496 observations and 4818 varaibles.
+[7 / 6] imputation completed in 681.9 seconds.
+[7 / 8] imputation started with 494 observations and 4818 varaibles.
+[7 / 8] imputation completed in 792.6 seconds.
+[7 / 9] imputation started with 494 observations and 4818 varaibles.
+[7 / 9] imputation completed in 778.5 seconds.
+[7 / 3] imputation started with 496 observations and 4818 varaibles.
+[7 / 3] imputation completed in 625.0 seconds.
+[7 / 4] imputation started with 496 observations and 4818 varaibles.
+[7 / 4] imputation completed in 784.8 seconds.
+[7 / 5] imputation started with 496 observations and 4818 varaibles.
+[7 / 5] imputation completed in 826.3 seconds.
+[7 / 0] imputation started with 496 observations and 4818 varaibles.
+[7 / 0] imputation completed in 840.6 seconds.
+[7 / 2] imputation started with 496 observations and 4818 varaibles.
+[7 / 2] imputation completed in 837.8 seconds.
+[7 / 1] imputation started with 496 observations and 4818 varaibles.
+[7 / 1] imputation completed in 834.7 seconds.
+[End][Region] 7 / 9 | [Elapsed] 841.7 seconds.
+[Start][Region] 8 / 9 | [Spots] 42 | 2434 / 2434.
+[8 / 9] imputation started with 409 observations and 4818 varaibles.
+[8 / 9] imputation completed in 524.6 seconds.
+[8 / 0] imputation started with 411 observations and 4818 varaibles.
+[8 / 0] imputation completed in 608.1 seconds.
+[8 / 8] imputation started with 409 observations and 4818 varaibles.
+[8 / 8] imputation completed in 575.5 seconds.
+[8 / 1] imputation started with 411 observations and 4818 varaibles.
+[8 / 1] imputation completed in 718.7 seconds.
+[8 / 6] imputation started with 410 observations and 4818 varaibles.
+[8 / 6] imputation completed in 737.6 seconds.
+[8 / 7] imputation started with 410 observations and 4818 varaibles.
+[8 / 7] imputation completed in 741.2 seconds.
+[8 / 5] imputation started with 410 observations and 4818 varaibles.
+[8 / 5] imputation completed in 776.6 seconds.
+[8 / 2] imputation started with 410 observations and 4818 varaibles.
+[8 / 2] imputation completed in 774.2 seconds.
+[8 / 3] imputation started with 410 observations and 4818 varaibles.
+[8 / 3] imputation completed in 737.5 seconds.
+[8 / 4] imputation started with 410 observations and 4818 varaibles.
+[8 / 4] imputation completed in 754.1 seconds.
+[End][Region] 8 / 9 | [Elapsed] 777.7 seconds.
+[MIST] 0/5 imputation done in 11566.02 seconds.
+[MAGIC] 0/5 imputation done in 33.15 seconds.
+  0%|          | 0/17 [00:00<?, ?it/s]  6%|▌         | 1/17 [00:01<00:24,  1.56s/it] 12%|█▏        | 2/17 [00:02<00:22,  1.47s/it] 18%|█▊        | 3/17 [00:04<00:19,  1.40s/it] 24%|██▎       | 4/17 [00:05<00:17,  1.35s/it] 29%|██▉       | 5/17 [00:06<00:15,  1.32s/it] 35%|███▌      | 6/17 [00:07<00:14,  1.30s/it] 41%|████      | 7/17 [00:09<00:12,  1.30s/it] 47%|████▋     | 8/17 [00:10<00:11,  1.32s/it] 53%|█████▎    | 9/17 [00:11<00:10,  1.33s/it] 59%|█████▉    | 10/17 [00:13<00:09,  1.34s/it] 65%|██████▍   | 11/17 [00:14<00:08,  1.47s/it] 71%|███████   | 12/17 [00:18<00:10,  2.02s/it] 76%|███████▋  | 13/17 [00:22<00:10,  2.59s/it] 82%|████████▏ | 14/17 [00:26<00:09,  3.09s/it] 88%|████████▊ | 15/17 [00:31<00:07,  3.55s/it] 94%|█████████▍| 16/17 [00:35<00:03,  3.70s/it]100%|██████████| 17/17 [00:39<00:00,  3.80s/it]100%|██████████| 17/17 [00:39<00:00,  2.30s/it][knnSmooth] 0/5 imputation done in 18.74 seconds.
+[spKNN] 0/5 imputation done in 90.88 seconds.
+[mcImpute] imputation started with 3722 observations and 4818 varaibles.
+[mcImpute] imputation completed in 2784.6 seconds.
+[mcImpute] 0/5 imputation done in 2810.56 seconds.
+MIST Data created in 112.69 seconds.
+Epsilon 0.750 is selected in 42.83 seconds.
+9 regions detected.
+[Start][Region] 0 / 9 | [Spots] 790 | 790 / 2434.
+
+[0 / 1] imputation started with 1084 observations and 4818 varaibles.
+[0 / 1] imputation completed in 1450.2 seconds.
+[0 / 6] imputation started with 1083 observations and 4818 varaibles.
+[0 / 6] imputation completed in 1600.5 seconds.
+[0 / 4] imputation started with 1083 observations and 4818 varaibles.
+[0 / 4] imputation completed in 1484.1 seconds.
+[0 / 0] imputation started with 1084 observations and 4818 varaibles.
+[0 / 0] imputation completed in 1813.3 seconds.
+[0 / 5] imputation started with 1083 observations and 4818 varaibles.
+[0 / 5] imputation completed in 1831.0 seconds.
+[0 / 9] imputation started with 1082 observations and 4818 varaibles.
+[0 / 9] imputation completed in 1873.4 seconds.
+[0 / 3] imputation started with 1084 observations and 4818 varaibles.
+[0 / 3] imputation completed in 1863.0 seconds.
+[0 / 7] imputation started with 1083 observations and 4818 varaibles.
+[0 / 7] imputation completed in 1928.1 seconds.
+[0 / 8] imputation started with 1082 observations and 4818 varaibles.
+[0 / 8] imputation completed in 1952.3 seconds.
+[0 / 2] imputation started with 1084 observations and 4818 varaibles.
+[0 / 2] imputation completed in 1979.3 seconds.
+[End][Region] 0 / 9 | [Elapsed] 2091.5 seconds.
+[Start][Region] 1 / 9 | [Spots] 102 | 892 / 2434.
+[1 / 9] imputation started with 463 observations and 4818 varaibles.
+[1 / 9] imputation completed in 581.7 seconds.
+[1 / 8] imputation started with 463 observations and 4818 varaibles.
+[1 / 8] imputation completed in 601.2 seconds.
+[1 / 7] imputation started with 464 observations and 4818 varaibles.
+[1 / 7] imputation completed in 632.8 seconds.
+[1 / 3] imputation started with 464 observations and 4818 varaibles.
+[1 / 3] imputation completed in 793.0 seconds.
+[1 / 6] imputation started with 464 observations and 4818 varaibles.
+[1 / 6] imputation completed in 834.1 seconds.
+[1 / 4] imputation started with 464 observations and 4818 varaibles.
+[1 / 4] imputation completed in 835.8 seconds.
+[1 / 0] imputation started with 465 observations and 4818 varaibles.
+[1 / 0] imputation completed in 866.8 seconds.
+[1 / 1] imputation started with 465 observations and 4818 varaibles.
+[1 / 1] imputation completed in 868.5 seconds.
+[1 / 2] imputation started with 464 observations and 4818 varaibles.
+[1 / 2] imputation completed in 873.8 seconds.
+[1 / 5] imputation started with 464 observations and 4818 varaibles.
+[1 / 5] imputation completed in 883.6 seconds.
+[End][Region] 1 / 9 | [Elapsed] 885.3 seconds.
+[Start][Region] 2 / 9 | [Spots] 386 | 1278 / 2434.
+[2 / 9] imputation started with 718 observations and 4818 varaibles.
+[2 / 9] imputation completed in 898.6 seconds.
+[2 / 8] imputation started with 718 observations and 4818 varaibles.
+[2 / 8] imputation completed in 941.9 seconds.
+[2 / 2] imputation started with 720 observations and 4818 varaibles.
+[2 / 2] imputation completed in 1092.1 seconds.
+[2 / 1] imputation started with 720 observations and 4818 varaibles.
+[2 / 1] imputation completed in 1155.3 seconds.
+[2 / 4] imputation started with 720 observations and 4818 varaibles.
+[2 / 4] imputation completed in 1340.0 seconds.
+[2 / 5] imputation started with 720 observations and 4818 varaibles.
+[2 / 5] imputation completed in 1313.0 seconds.
+[2 / 0] imputation started with 720 observations and 4818 varaibles.
+[2 / 0] imputation completed in 1354.9 seconds.
+[2 / 3] imputation started with 720 observations and 4818 varaibles.
+[2 / 3] imputation completed in 1128.2 seconds.
+[2 / 7] imputation started with 720 observations and 4818 varaibles.
+[2 / 7] imputation completed in 1354.6 seconds.
+[2 / 6] imputation started with 720 observations and 4818 varaibles.
+[2 / 6] imputation completed in 1367.4 seconds.
+[End][Region] 2 / 9 | [Elapsed] 1369.5 seconds.
+[Start][Region] 3 / 9 | [Spots] 65 | 1343 / 2434.
+[3 / 8] imputation started with 430 observations and 4818 varaibles.
+[3 / 8] imputation completed in 551.1 seconds.
+[3 / 7] imputation started with 431 observations and 4818 varaibles.
+[3 / 7] imputation completed in 719.8 seconds.
+[3 / 3] imputation started with 431 observations and 4818 varaibles.
+[3 / 3] imputation completed in 652.2 seconds.
+[3 / 4] imputation started with 431 observations and 4818 varaibles.
+[3 / 4] imputation completed in 723.4 seconds.
+[3 / 9] imputation started with 429 observations and 4818 varaibles.
+[3 / 9] imputation completed in 568.7 seconds.
+[3 / 0] imputation started with 431 observations and 4818 varaibles.
+[3 / 0] imputation completed in 659.9 seconds.
+[3 / 2] imputation started with 431 observations and 4818 varaibles.
+[3 / 2] imputation completed in 750.8 seconds.
+[3 / 6] imputation started with 431 observations and 4818 varaibles.
+[3 / 6] imputation completed in 724.7 seconds.
+[3 / 5] imputation started with 431 observations and 4818 varaibles.
+[3 / 5] imputation completed in 762.7 seconds.
+[3 / 1] imputation started with 431 observations and 4818 varaibles.
+[3 / 1] imputation completed in 755.8 seconds.
+[End][Region] 3 / 9 | [Elapsed] 764.0 seconds.
+[Start][Region] 4 / 9 | [Spots] 163 | 1506 / 2434.
+[4 / 7] imputation started with 519 observations and 4818 varaibles.
+[4 / 7] imputation completed in 819.0 seconds.
+[4 / 9] imputation started with 518 observations and 4818 varaibles.
+[4 / 9] imputation completed in 911.3 seconds.
+[4 / 0] imputation started with 520 observations and 4818 varaibles.
+[4 / 0] imputation completed in 1058.6 seconds.
+[4 / 8] imputation started with 518 observations and 4818 varaibles.
+[4 / 8] imputation completed in 948.5 seconds.
+[4 / 3] imputation started with 519 observations and 4818 varaibles.
+[4 / 3] imputation completed in 1106.6 seconds.
+[4 / 1] imputation started with 519 observations and 4818 varaibles.
+[4 / 1] imputation completed in 1057.6 seconds.
+[4 / 2] imputation started with 519 observations and 4818 varaibles.
+[4 / 2] imputation completed in 1108.1 seconds.
+[4 / 4] imputation started with 519 observations and 4818 varaibles.
+[4 / 4] imputation completed in 1131.6 seconds.
+[4 / 5] imputation started with 519 observations and 4818 varaibles.
+[4 / 5] imputation completed in 1115.8 seconds.
+[4 / 6] imputation started with 519 observations and 4818 varaibles.
+[4 / 6] imputation completed in 1118.9 seconds.
+[End][Region] 4 / 9 | [Elapsed] 1132.9 seconds.
+[Start][Region] 5 / 9 | [Spots] 201 | 1707 / 2434.
+[5 / 9] imputation started with 552 observations and 4818 varaibles.
+[5 / 9] imputation completed in 940.8 seconds.
+[5 / 1] imputation started with 554 observations and 4818 varaibles.
+[5 / 1] imputation completed in 952.3 seconds.
+[5 / 4] imputation started with 553 observations and 4818 varaibles.
+[5 / 4] imputation completed in 947.8 seconds.
+[5 / 2] imputation started with 554 observations and 4818 varaibles.
+[5 / 2] imputation completed in 964.7 seconds.
+[5 / 8] imputation started with 552 observations and 4818 varaibles.
+[5 / 8] imputation completed in 964.6 seconds.
+[5 / 6] imputation started with 553 observations and 4818 varaibles.
+[5 / 6] imputation completed in 968.7 seconds.
+[5 / 5] imputation started with 553 observations and 4818 varaibles.
+[5 / 5] imputation completed in 974.8 seconds.
+[5 / 0] imputation started with 554 observations and 4818 varaibles.
+[5 / 0] imputation completed in 980.8 seconds.
+[5 / 7] imputation started with 553 observations and 4818 varaibles.
+[5 / 7] imputation completed in 980.3 seconds.
+[5 / 3] imputation started with 553 observations and 4818 varaibles.
+[5 / 3] imputation completed in 981.3 seconds.
+[End][Region] 5 / 9 | [Elapsed] 982.6 seconds.
+[Start][Region] 6 / 9 | [Spots] 548 | 2255 / 2434.
+[6 / 4] imputation started with 866 observations and 4818 varaibles.
+[6 / 4] imputation completed in 1784.1 seconds.
+[6 / 1] imputation started with 866 observations and 4818 varaibles.
+[6 / 1] imputation completed in 1988.1 seconds.
+[6 / 9] imputation started with 864 observations and 4818 varaibles.
+[6 / 9] imputation completed in 2389.5 seconds.
+[6 / 7] imputation started with 865 observations and 4818 varaibles.
+[6 / 7] imputation completed in 2067.4 seconds.
+[6 / 0] imputation started with 866 observations and 4818 varaibles.
+[6 / 0] imputation completed in 2485.7 seconds.
+[6 / 3] imputation started with 866 observations and 4818 varaibles.
+[6 / 3] imputation completed in 2542.6 seconds.
+[6 / 5] imputation started with 866 observations and 4818 varaibles.
+[6 / 5] imputation completed in 2599.7 seconds.
+[6 / 8] imputation started with 864 observations and 4818 varaibles.
+[6 / 8] imputation completed in 2401.4 seconds.
+[6 / 6] imputation started with 865 observations and 4818 varaibles.
+[6 / 6] imputation completed in 2599.4 seconds.
+[6 / 2] imputation started with 866 observations and 4818 varaibles.
+[6 / 2] imputation completed in 2594.0 seconds.
+[End][Region] 6 / 9 | [Elapsed] 2602.4 seconds.
+[Start][Region] 7 / 9 | [Spots] 137 | 2392 / 2434.
+[7 / 1] imputation started with 496 observations and 4818 varaibles.
+[7 / 1] imputation completed in 631.4 seconds.
+[7 / 3] imputation started with 496 observations and 4818 varaibles.
+[7 / 3] imputation completed in 643.3 seconds.
+[7 / 7] imputation started with 495 observations and 4818 varaibles.
+[7 / 7] imputation completed in 660.7 seconds.
+[7 / 8] imputation started with 494 observations and 4818 varaibles.
+[7 / 8] imputation completed in 800.2 seconds.
+[7 / 4] imputation started with 496 observations and 4818 varaibles.
+[7 / 4] imputation completed in 737.9 seconds.
+[7 / 6] imputation started with 496 observations and 4818 varaibles.
+[7 / 6] imputation completed in 803.1 seconds.
+[7 / 5] imputation started with 496 observations and 4818 varaibles.
+[7 / 5] imputation completed in 813.6 seconds.
+[7 / 9] imputation started with 494 observations and 4818 varaibles.
+[7 / 9] imputation completed in 802.2 seconds.
+[7 / 2] imputation started with 496 observations and 4818 varaibles.
+[7 / 2] imputation completed in 807.4 seconds.
+[7 / 0] imputation started with 496 observations and 4818 varaibles.
+[7 / 0] imputation completed in 815.5 seconds.
+[End][Region] 7 / 9 | [Elapsed] 816.8 seconds.
+[Start][Region] 8 / 9 | [Spots] 42 | 2434 / 2434.
+[8 / 9] imputation started with 409 observations and 4818 varaibles.
+[8 / 9] imputation completed in 481.5 seconds.
+[8 / 4] imputation started with 410 observations and 4818 varaibles.
+[8 / 4] imputation completed in 527.8 seconds.
+[8 / 3] imputation started with 410 observations and 4818 varaibles.
+[8 / 3] imputation completed in 622.2 seconds.
+[8 / 6] imputation started with 410 observations and 4818 varaibles.
+[8 / 6] imputation completed in 698.8 seconds.
+[8 / 0] imputation started with 411 observations and 4818 varaibles.
+[8 / 0] imputation completed in 539.1 seconds.
+[8 / 8] imputation started with 409 observations and 4818 varaibles.
+[8 / 8] imputation completed in 726.8 seconds.
+[8 / 1] imputation started with 411 observations and 4818 varaibles.
+[8 / 1] imputation completed in 708.9 seconds.
+[8 / 7] imputation started with 410 observations and 4818 varaibles.
+[8 / 7] imputation completed in 708.0 seconds.
+[8 / 2] imputation started with 410 observations and 4818 varaibles.
+[8 / 2] imputation completed in 734.6 seconds.
+[8 / 5] imputation started with 410 observations and 4818 varaibles.
+[8 / 5] imputation completed in 737.3 seconds.
+[End][Region] 8 / 9 | [Elapsed] 738.6 seconds.
+[MIST] 1/5 imputation done in 11405.80 seconds.
+[MAGIC] 1/5 imputation done in 33.50 seconds.
+  0%|          | 0/17 [00:00<?, ?it/s]  6%|▌         | 1/17 [00:01<00:25,  1.61s/it] 12%|█▏        | 2/17 [00:03<00:23,  1.57s/it] 18%|█▊        | 3/17 [00:04<00:21,  1.54s/it] 24%|██▎       | 4/17 [00:05<00:19,  1.51s/it] 29%|██▉       | 5/17 [00:07<00:18,  1.50s/it] 35%|███▌      | 6/17 [00:08<00:16,  1.49s/it] 41%|████      | 7/17 [00:10<00:15,  1.52s/it] 47%|████▋     | 8/17 [00:12<00:13,  1.52s/it] 53%|█████▎    | 9/17 [00:13<00:12,  1.51s/it] 59%|█████▉    | 10/17 [00:14<00:10,  1.49s/it] 65%|██████▍   | 11/17 [00:16<00:09,  1.63s/it] 71%|███████   | 12/17 [00:20<00:10,  2.18s/it] 76%|███████▋  | 13/17 [00:24<00:11,  2.76s/it] 82%|████████▏ | 14/17 [00:28<00:09,  3.24s/it] 88%|████████▊ | 15/17 [00:33<00:07,  3.66s/it] 94%|█████████▍| 16/17 [00:37<00:03,  3.82s/it]100%|██████████| 17/17 [00:41<00:00,  3.91s/it]100%|██████████| 17/17 [00:41<00:00,  2.46s/it][knnSmooth] 1/5 imputation done in 18.81 seconds.
+[spKNN] 1/5 imputation done in 90.71 seconds.
+[mcImpute] imputation started with 3722 observations and 4818 varaibles.
+[mcImpute] imputation completed in 2798.5 seconds.
+[mcImpute] 1/5 imputation done in 2824.59 seconds.
+MIST Data created in 111.98 seconds.
+Epsilon 0.750 is selected in 45.58 seconds.
+9 regions detected.
+[Start][Region] 0 / 9 | [Spots] 790 | 790 / 2434.
+
+[0 / 1] imputation started with 1084 observations and 4818 varaibles.
+[0 / 1] imputation completed in 1268.3 seconds.
+[0 / 9] imputation started with 1082 observations and 4818 varaibles.
+[0 / 9] imputation completed in 1625.6 seconds.
+[0 / 5] imputation started with 1083 observations and 4818 varaibles.
+[0 / 5] imputation completed in 1636.1 seconds.
+[0 / 0] imputation started with 1084 observations and 4818 varaibles.
+[0 / 0] imputation completed in 1851.9 seconds.
+[0 / 4] imputation started with 1083 observations and 4818 varaibles.
+[0 / 4] imputation completed in 1274.0 seconds.
+[0 / 6] imputation started with 1083 observations and 4818 varaibles.
+[0 / 6] imputation completed in 1789.2 seconds.
+[0 / 7] imputation started with 1083 observations and 4818 varaibles.
+[0 / 7] imputation completed in 2004.6 seconds.
+[0 / 3] imputation started with 1084 observations and 4818 varaibles.
+[0 / 3] imputation completed in 1732.8 seconds.
+[0 / 8] imputation started with 1082 observations and 4818 varaibles.
+[0 / 8] imputation completed in 2021.3 seconds.
+[0 / 2] imputation started with 1084 observations and 4818 varaibles.
+[0 / 2] imputation completed in 2023.0 seconds.
+[End][Region] 0 / 9 | [Elapsed] 2139.2 seconds.
+[Start][Region] 1 / 9 | [Spots] 102 | 892 / 2434.
+[1 / 2] imputation started with 464 observations and 4818 varaibles.
+[1 / 2] imputation completed in 662.9 seconds.
+[1 / 3] imputation started with 464 observations and 4818 varaibles.
+[1 / 3] imputation completed in 704.8 seconds.
+[1 / 9] imputation started with 463 observations and 4818 varaibles.
+[1 / 9] imputation completed in 898.2 seconds.
+[1 / 7] imputation started with 464 observations and 4818 varaibles.
+[1 / 7] imputation completed in 908.1 seconds.
+[1 / 8] imputation started with 463 observations and 4818 varaibles.
+[1 / 8] imputation completed in 907.9 seconds.
+[1 / 1] imputation started with 465 observations and 4818 varaibles.
+[1 / 1] imputation completed in 915.7 seconds.
+[1 / 4] imputation started with 464 observations and 4818 varaibles.
+[1 / 4] imputation completed in 929.5 seconds.
+[1 / 5] imputation started with 464 observations and 4818 varaibles.
+[1 / 5] imputation completed in 941.5 seconds.
+[1 / 0] imputation started with 465 observations and 4818 varaibles.
+[1 / 0] imputation completed in 928.3 seconds.
+[1 / 6] imputation started with 464 observations and 4818 varaibles.
+[1 / 6] imputation completed in 905.3 seconds.
+[End][Region] 1 / 9 | [Elapsed] 943.3 seconds.
+[Start][Region] 2 / 9 | [Spots] 386 | 1278 / 2434.
+[2 / 2] imputation started with 720 observations and 4818 varaibles.
+[2 / 2] imputation completed in 797.7 seconds.
+[2 / 9] imputation started with 718 observations and 4818 varaibles.
+[2 / 9] imputation completed in 1155.3 seconds.
+[2 / 4] imputation started with 720 observations and 4818 varaibles.
+[2 / 4] imputation completed in 1166.1 seconds.
+[2 / 1] imputation started with 720 observations and 4818 varaibles.
+[2 / 1] imputation completed in 1178.9 seconds.
+[2 / 3] imputation started with 720 observations and 4818 varaibles.
+[2 / 3] imputation completed in 1189.4 seconds.
+[2 / 8] imputation started with 718 observations and 4818 varaibles.
+[2 / 8] imputation completed in 1242.1 seconds.
+[2 / 7] imputation started with 720 observations and 4818 varaibles.
+[2 / 7] imputation completed in 1322.7 seconds.
+[2 / 6] imputation started with 720 observations and 4818 varaibles.
+[2 / 6] imputation completed in 1355.8 seconds.
+[2 / 5] imputation started with 720 observations and 4818 varaibles.
+[2 / 5] imputation completed in 1247.9 seconds.
+[2 / 0] imputation started with 720 observations and 4818 varaibles.
+[2 / 0] imputation completed in 1360.3 seconds.
+[End][Region] 2 / 9 | [Elapsed] 1361.6 seconds.
+[Start][Region] 3 / 9 | [Spots] 65 | 1343 / 2434.
+[3 / 0] imputation started with 431 observations and 4818 varaibles.
+[3 / 0] imputation completed in 515.0 seconds.
+[3 / 1] imputation started with 431 observations and 4818 varaibles.
+[3 / 1] imputation completed in 640.7 seconds.
+[3 / 6] imputation started with 431 observations and 4818 varaibles.
+[3 / 6] imputation completed in 714.0 seconds.
+[3 / 2] imputation started with 431 observations and 4818 varaibles.
+[3 / 2] imputation completed in 640.8 seconds.
+[3 / 9] imputation started with 429 observations and 4818 varaibles.
+[3 / 9] imputation completed in 748.9 seconds.
+[3 / 7] imputation started with 431 observations and 4818 varaibles.
+[3 / 7] imputation completed in 720.8 seconds.
+[3 / 4] imputation started with 431 observations and 4818 varaibles.
+[3 / 4] imputation completed in 761.2 seconds.
+[3 / 8] imputation started with 430 observations and 4818 varaibles.
+[3 / 8] imputation completed in 763.0 seconds.
+[3 / 5] imputation started with 431 observations and 4818 varaibles.
+[3 / 5] imputation completed in 791.8 seconds.
+[3 / 3] imputation started with 431 observations and 4818 varaibles.
+[3 / 3] imputation completed in 793.5 seconds.
+[End][Region] 3 / 9 | [Elapsed] 794.7 seconds.
+[Start][Region] 4 / 9 | [Spots] 163 | 1506 / 2434.
+[4 / 6] imputation started with 519 observations and 4818 varaibles.
+[4 / 6] imputation completed in 786.2 seconds.
+[4 / 9] imputation started with 518 observations and 4818 varaibles.
+[4 / 9] imputation completed in 796.3 seconds.
+[4 / 5] imputation started with 519 observations and 4818 varaibles.
+[4 / 5] imputation completed in 819.2 seconds.
+[4 / 0] imputation started with 520 observations and 4818 varaibles.
+[4 / 0] imputation completed in 1026.9 seconds.
+[4 / 7] imputation started with 519 observations and 4818 varaibles.
+[4 / 7] imputation completed in 1085.9 seconds.
+[4 / 3] imputation started with 519 observations and 4818 varaibles.
+[4 / 3] imputation completed in 1109.2 seconds.
+[4 / 1] imputation started with 519 observations and 4818 varaibles.
+[4 / 1] imputation completed in 1131.6 seconds.
+[4 / 4] imputation started with 519 observations and 4818 varaibles.
+[4 / 4] imputation completed in 1141.9 seconds.
+[4 / 2] imputation started with 519 observations and 4818 varaibles.
+[4 / 2] imputation completed in 1082.7 seconds.
+[4 / 8] imputation started with 518 observations and 4818 varaibles.
+[4 / 8] imputation completed in 1136.2 seconds.
+[End][Region] 4 / 9 | [Elapsed] 1143.1 seconds.
+[Start][Region] 5 / 9 | [Spots] 201 | 1707 / 2434.
+[5 / 8] imputation started with 552 observations and 4818 varaibles.
+[5 / 8] imputation completed in 799.9 seconds.
+[5 / 3] imputation started with 553 observations and 4818 varaibles.
+[5 / 3] imputation completed in 1016.4 seconds.
+[5 / 7] imputation started with 553 observations and 4818 varaibles.
+[5 / 7] imputation completed in 842.8 seconds.
+[5 / 0] imputation started with 554 observations and 4818 varaibles.
+[5 / 0] imputation completed in 1079.1 seconds.
+[5 / 6] imputation started with 553 observations and 4818 varaibles.
+[5 / 6] imputation completed in 840.6 seconds.
+[5 / 5] imputation started with 553 observations and 4818 varaibles.
+[5 / 5] imputation completed in 1087.2 seconds.
+[5 / 4] imputation started with 553 observations and 4818 varaibles.
+[5 / 4] imputation completed in 1097.2 seconds.
+[5 / 1] imputation started with 554 observations and 4818 varaibles.
+[5 / 1] imputation completed in 1089.0 seconds.
+[5 / 9] imputation started with 552 observations and 4818 varaibles.
+[5 / 9] imputation completed in 1080.5 seconds.
+[5 / 2] imputation started with 554 observations and 4818 varaibles.
+[5 / 2] imputation completed in 1109.2 seconds.
+[End][Region] 5 / 9 | [Elapsed] 1110.5 seconds.
+[Start][Region] 6 / 9 | [Spots] 548 | 2255 / 2434.
+[6 / 9] imputation started with 864 observations and 4818 varaibles.
+[6 / 9] imputation completed in 2065.5 seconds.
+[6 / 4] imputation started with 866 observations and 4818 varaibles.
+[6 / 4] imputation completed in 2073.1 seconds.
+[6 / 0] imputation started with 866 observations and 4818 varaibles.
+[6 / 0] imputation completed in 2138.2 seconds.
+[6 / 2] imputation started with 866 observations and 4818 varaibles.
+[6 / 2] imputation completed in 2170.8 seconds.
+[6 / 6] imputation started with 865 observations and 4818 varaibles.
+[6 / 6] imputation completed in 2260.9 seconds.
+[6 / 1] imputation started with 866 observations and 4818 varaibles.
+[6 / 1] imputation completed in 2239.0 seconds.
+[6 / 3] imputation started with 866 observations and 4818 varaibles.
+[6 / 3] imputation completed in 2262.3 seconds.
+[6 / 5] imputation started with 866 observations and 4818 varaibles.
+[6 / 5] imputation completed in 2269.5 seconds.
+[6 / 8] imputation started with 864 observations and 4818 varaibles.
+[6 / 8] imputation completed in 2280.2 seconds.
+[6 / 7] imputation started with 865 observations and 4818 varaibles.
+[6 / 7] imputation completed in 2295.4 seconds.
+[End][Region] 6 / 9 | [Elapsed] 2299.0 seconds.
+[Start][Region] 7 / 9 | [Spots] 137 | 2392 / 2434.
+[7 / 8] imputation started with 494 observations and 4818 varaibles.
+[7 / 8] imputation completed in 537.7 seconds.
+[7 / 3] imputation started with 496 observations and 4818 varaibles.
+[7 / 3] imputation completed in 686.9 seconds.
+[7 / 2] imputation started with 496 observations and 4818 varaibles.
+[7 / 2] imputation completed in 763.5 seconds.
+[7 / 6] imputation started with 496 observations and 4818 varaibles.
+[7 / 6] imputation completed in 785.8 seconds.
+[7 / 4] imputation started with 496 observations and 4818 varaibles.
+[7 / 4] imputation completed in 553.3 seconds.
+[7 / 0] imputation started with 496 observations and 4818 varaibles.
+[7 / 0] imputation completed in 790.9 seconds.
+[7 / 9] imputation started with 494 observations and 4818 varaibles.
+[7 / 9] imputation completed in 791.0 seconds.
+[7 / 1] imputation started with 496 observations and 4818 varaibles.
+[7 / 1] imputation completed in 795.7 seconds.
+[7 / 5] imputation started with 496 observations and 4818 varaibles.
+[7 / 5] imputation completed in 813.5 seconds.
+[7 / 7] imputation started with 495 observations and 4818 varaibles.
+[7 / 7] imputation completed in 808.5 seconds.
+[End][Region] 7 / 9 | [Elapsed] 815.3 seconds.
+[Start][Region] 8 / 9 | [Spots] 42 | 2434 / 2434.
+[8 / 3] imputation started with 410 observations and 4818 varaibles.
+[8 / 3] imputation completed in 594.4 seconds.
+[8 / 9] imputation started with 409 observations and 4818 varaibles.
+[8 / 9] imputation completed in 603.6 seconds.
+[8 / 0] imputation started with 411 observations and 4818 varaibles.
+[8 / 0] imputation completed in 624.6 seconds.
+[8 / 4] imputation started with 410 observations and 4818 varaibles.
+[8 / 4] imputation completed in 641.0 seconds.
+[8 / 8] imputation started with 409 observations and 4818 varaibles.
+[8 / 8] imputation completed in 653.4 seconds.
+[8 / 7] imputation started with 410 observations and 4818 varaibles.
+[8 / 7] imputation completed in 654.7 seconds.
+[8 / 1] imputation started with 411 observations and 4818 varaibles.
+[8 / 1] imputation completed in 631.4 seconds.
+[8 / 5] imputation started with 410 observations and 4818 varaibles.
+[8 / 5] imputation completed in 691.5 seconds.
+[8 / 6] imputation started with 410 observations and 4818 varaibles.
+[8 / 6] imputation completed in 672.7 seconds.
+[8 / 2] imputation started with 410 observations and 4818 varaibles.
+[8 / 2] imputation completed in 690.8 seconds.
+[End][Region] 8 / 9 | [Elapsed] 693.0 seconds.
+[MIST] 2/5 imputation done in 11321.84 seconds.
+[MAGIC] 2/5 imputation done in 33.22 seconds.
+  0%|          | 0/17 [00:00<?, ?it/s]  6%|▌         | 1/17 [00:01<00:27,  1.72s/it] 12%|█▏        | 2/17 [00:03<00:24,  1.66s/it] 18%|█▊        | 3/17 [00:04<00:22,  1.62s/it] 24%|██▎       | 4/17 [00:06<00:21,  1.63s/it] 29%|██▉       | 5/17 [00:07<00:18,  1.57s/it] 35%|███▌      | 6/17 [00:09<00:16,  1.53s/it] 41%|████      | 7/17 [00:10<00:15,  1.51s/it] 47%|████▋     | 8/17 [00:12<00:13,  1.51s/it] 53%|█████▎    | 9/17 [00:13<00:12,  1.50s/it] 59%|█████▉    | 10/17 [00:15<00:10,  1.54s/it] 65%|██████▍   | 11/17 [00:17<00:10,  1.72s/it] 71%|███████   | 12/17 [00:22<00:12,  2.55s/it] 76%|███████▋  | 13/17 [00:27<00:13,  3.40s/it] 82%|████████▏ | 14/17 [00:33<00:12,  4.08s/it] 88%|████████▊ | 15/17 [00:39<00:09,  4.67s/it] 94%|█████████▍| 16/17 [00:44<00:04,  4.78s/it]100%|██████████| 17/17 [00:48<00:00,  4.74s/it]100%|██████████| 17/17 [00:48<00:00,  2.87s/it][knnSmooth] 2/5 imputation done in 19.17 seconds.
+[spKNN] 2/5 imputation done in 91.05 seconds.
+[mcImpute] imputation started with 3722 observations and 4818 varaibles.
+[mcImpute] imputation completed in 2803.9 seconds.
+[mcImpute] 2/5 imputation done in 2829.89 seconds.
+MIST Data created in 124.56 seconds.
+Epsilon 0.750 is selected in 53.59 seconds.
+9 regions detected.
+[Start][Region] 0 / 9 | [Spots] 790 | 790 / 2434.
+
+[0 / 1] imputation started with 1084 observations and 4818 varaibles.
+[0 / 1] imputation completed in 1518.1 seconds.
+[0 / 4] imputation started with 1083 observations and 4818 varaibles.
+[0 / 4] imputation completed in 1598.1 seconds.
+[0 / 6] imputation started with 1083 observations and 4818 varaibles.
+[0 / 6] imputation completed in 1783.7 seconds.
+[0 / 8] imputation started with 1082 observations and 4818 varaibles.
+[0 / 8] imputation completed in 1832.5 seconds.
+[0 / 2] imputation started with 1084 observations and 4818 varaibles.
+[0 / 2] imputation completed in 1859.5 seconds.
+[0 / 0] imputation started with 1084 observations and 4818 varaibles.
+[0 / 0] imputation completed in 1946.8 seconds.
+[0 / 3] imputation started with 1084 observations and 4818 varaibles.
+[0 / 3] imputation completed in 1951.1 seconds.
+[0 / 5] imputation started with 1083 observations and 4818 varaibles.
+[0 / 5] imputation completed in 1952.2 seconds.
+[0 / 9] imputation started with 1082 observations and 4818 varaibles.
+[0 / 9] imputation completed in 1967.8 seconds.
+[0 / 7] imputation started with 1083 observations and 4818 varaibles.
+[0 / 7] imputation completed in 2002.0 seconds.
+[End][Region] 0 / 9 | [Elapsed] 2117.5 seconds.
+[Start][Region] 1 / 9 | [Spots] 102 | 892 / 2434.
+[1 / 0] imputation started with 465 observations and 4818 varaibles.
+[1 / 0] imputation completed in 631.1 seconds.
+[1 / 2] imputation started with 464 observations and 4818 varaibles.
+[1 / 2] imputation completed in 674.4 seconds.
+[1 / 6] imputation started with 464 observations and 4818 varaibles.
+[1 / 6] imputation completed in 840.8 seconds.
+[1 / 5] imputation started with 464 observations and 4818 varaibles.
+[1 / 5] imputation completed in 852.3 seconds.
+[1 / 7] imputation started with 464 observations and 4818 varaibles.
+[1 / 7] imputation completed in 860.6 seconds.
+[1 / 9] imputation started with 463 observations and 4818 varaibles.
+[1 / 9] imputation completed in 871.7 seconds.
+[1 / 8] imputation started with 463 observations and 4818 varaibles.
+[1 / 8] imputation completed in 873.9 seconds.
+[1 / 1] imputation started with 465 observations and 4818 varaibles.
+[1 / 1] imputation completed in 708.5 seconds.
+[1 / 4] imputation started with 464 observations and 4818 varaibles.
+[1 / 4] imputation completed in 887.1 seconds.
+[1 / 3] imputation started with 464 observations and 4818 varaibles.
+[1 / 3] imputation completed in 893.5 seconds.
+[End][Region] 1 / 9 | [Elapsed] 895.0 seconds.
+[Start][Region] 2 / 9 | [Spots] 386 | 1278 / 2434.
+[2 / 9] imputation started with 718 observations and 4818 varaibles.
+[2 / 9] imputation completed in 838.4 seconds.
+[2 / 4] imputation started with 720 observations and 4818 varaibles.
+[2 / 4] imputation completed in 1044.0 seconds.
+[2 / 8] imputation started with 718 observations and 4818 varaibles.
+[2 / 8] imputation completed in 1043.1 seconds.
+[2 / 2] imputation started with 720 observations and 4818 varaibles.
+[2 / 2] imputation completed in 1047.8 seconds.
+[2 / 5] imputation started with 720 observations and 4818 varaibles.
+[2 / 5] imputation completed in 1175.5 seconds.
+[2 / 7] imputation started with 720 observations and 4818 varaibles.
+[2 / 7] imputation completed in 1095.2 seconds.
+[2 / 6] imputation started with 720 observations and 4818 varaibles.
+[2 / 6] imputation completed in 1157.3 seconds.
+[2 / 0] imputation started with 720 observations and 4818 varaibles.
+[2 / 0] imputation completed in 1203.2 seconds.
+[2 / 1] imputation started with 720 observations and 4818 varaibles.
+[2 / 1] imputation completed in 1162.5 seconds.
+[2 / 3] imputation started with 720 observations and 4818 varaibles.
+[2 / 3] imputation completed in 1063.6 seconds.
+[End][Region] 2 / 9 | [Elapsed] 1204.5 seconds.
+[Start][Region] 3 / 9 | [Spots] 65 | 1343 / 2434.
+[3 / 6] imputation started with 431 observations and 4818 varaibles.
+[3 / 6] imputation completed in 549.7 seconds.
+[3 / 3] imputation started with 431 observations and 4818 varaibles.
+[3 / 3] imputation completed in 563.3 seconds.
+[3 / 8] imputation started with 430 observations and 4818 varaibles.
+[3 / 8] imputation completed in 601.0 seconds.
+[3 / 9] imputation started with 429 observations and 4818 varaibles.
+[3 / 9] imputation completed in 601.0 seconds.
+[3 / 0] imputation started with 431 observations and 4818 varaibles.
+[3 / 0] imputation completed in 648.1 seconds.
+[3 / 4] imputation started with 431 observations and 4818 varaibles.
+[3 / 4] imputation completed in 672.1 seconds.
+[3 / 5] imputation started with 431 observations and 4818 varaibles.
+[3 / 5] imputation completed in 713.4 seconds.
+[3 / 1] imputation started with 431 observations and 4818 varaibles.
+[3 / 1] imputation completed in 708.4 seconds.
+[3 / 7] imputation started with 431 observations and 4818 varaibles.
+[3 / 7] imputation completed in 677.7 seconds.
+[3 / 2] imputation started with 431 observations and 4818 varaibles.
+[3 / 2] imputation completed in 724.8 seconds.
+[End][Region] 3 / 9 | [Elapsed] 725.9 seconds.
+[Start][Region] 4 / 9 | [Spots] 163 | 1506 / 2434.
+[4 / 6] imputation started with 519 observations and 4818 varaibles.
+[4 / 6] imputation completed in 860.8 seconds.
+[4 / 7] imputation started with 519 observations and 4818 varaibles.
+[4 / 7] imputation completed in 839.9 seconds.
+[4 / 8] imputation started with 518 observations and 4818 varaibles.
+[4 / 8] imputation completed in 867.8 seconds.
+[4 / 4] imputation started with 519 observations and 4818 varaibles.
+[4 / 4] imputation completed in 1081.4 seconds.
+[4 / 0] imputation started with 520 observations and 4818 varaibles.
+[4 / 0] imputation completed in 1103.4 seconds.
+[4 / 2] imputation started with 519 observations and 4818 varaibles.
+[4 / 2] imputation completed in 1124.8 seconds.
+[4 / 3] imputation started with 519 observations and 4818 varaibles.
+[4 / 3] imputation completed in 1133.4 seconds.
+[4 / 5] imputation started with 519 observations and 4818 varaibles.
+[4 / 5] imputation completed in 1160.2 seconds.
+[4 / 1] imputation started with 519 observations and 4818 varaibles.
+[4 / 1] imputation completed in 1152.4 seconds.
+[4 / 9] imputation started with 518 observations and 4818 varaibles.
+[4 / 9] imputation completed in 1158.1 seconds.
+[End][Region] 4 / 9 | [Elapsed] 1161.4 seconds.
+[Start][Region] 5 / 9 | [Spots] 201 | 1707 / 2434.
+[5 / 7] imputation started with 553 observations and 4818 varaibles.
+[5 / 7] imputation completed in 823.0 seconds.
+[5 / 6] imputation started with 553 observations and 4818 varaibles.
+[5 / 6] imputation completed in 1113.9 seconds.
+[5 / 9] imputation started with 552 observations and 4818 varaibles.
+[5 / 9] imputation completed in 1113.5 seconds.
+[5 / 2] imputation started with 554 observations and 4818 varaibles.
+[5 / 2] imputation completed in 952.8 seconds.
+[5 / 8] imputation started with 552 observations and 4818 varaibles.
+[5 / 8] imputation completed in 1141.3 seconds.
+[5 / 4] imputation started with 553 observations and 4818 varaibles.
+[5 / 4] imputation completed in 1158.9 seconds.
+[5 / 1] imputation started with 554 observations and 4818 varaibles.
+[5 / 1] imputation completed in 1160.8 seconds.
+[5 / 3] imputation started with 553 observations and 4818 varaibles.
+[5 / 3] imputation completed in 1152.8 seconds.
+[5 / 5] imputation started with 553 observations and 4818 varaibles.
+[5 / 5] imputation completed in 1139.5 seconds.
+[5 / 0] imputation started with 554 observations and 4818 varaibles.
+[5 / 0] imputation completed in 1165.3 seconds.
+[End][Region] 5 / 9 | [Elapsed] 1166.4 seconds.
+[Start][Region] 6 / 9 | [Spots] 548 | 2255 / 2434.
+[6 / 9] imputation started with 864 observations and 4818 varaibles.
+[6 / 9] imputation completed in 1875.7 seconds.
+[6 / 7] imputation started with 865 observations and 4818 varaibles.
+[6 / 7] imputation completed in 2012.5 seconds.
+[6 / 8] imputation started with 864 observations and 4818 varaibles.
+[6 / 8] imputation completed in 2053.4 seconds.
+[6 / 6] imputation started with 865 observations and 4818 varaibles.
+[6 / 6] imputation completed in 2064.6 seconds.
+[6 / 4] imputation started with 866 observations and 4818 varaibles.
+[6 / 4] imputation completed in 2290.0 seconds.
+[6 / 0] imputation started with 866 observations and 4818 varaibles.
+[6 / 0] imputation completed in 2311.0 seconds.
+[6 / 2] imputation started with 866 observations and 4818 varaibles.
+[6 / 2] imputation completed in 2390.8 seconds.
+[6 / 1] imputation started with 866 observations and 4818 varaibles.
+[6 / 1] imputation completed in 2413.9 seconds.
+[6 / 5] imputation started with 866 observations and 4818 varaibles.
+[6 / 5] imputation completed in 2425.2 seconds.
+[6 / 3] imputation started with 866 observations and 4818 varaibles.
+[6 / 3] imputation completed in 2433.0 seconds.
+[End][Region] 6 / 9 | [Elapsed] 2435.1 seconds.
+[Start][Region] 7 / 9 | [Spots] 137 | 2392 / 2434.
+[7 / 4] imputation started with 496 observations and 4818 varaibles.
+[7 / 4] imputation completed in 583.9 seconds.
+[7 / 8] imputation started with 494 observations and 4818 varaibles.
+[7 / 8] imputation completed in 596.6 seconds.
+[7 / 2] imputation started with 496 observations and 4818 varaibles.
+[7 / 2] imputation completed in 717.9 seconds.
+[7 / 5] imputation started with 496 observations and 4818 varaibles.
+[7 / 5] imputation completed in 639.3 seconds.
+[7 / 6] imputation started with 496 observations and 4818 varaibles.
+[7 / 6] imputation completed in 733.7 seconds.
+[7 / 7] imputation started with 495 observations and 4818 varaibles.
+[7 / 7] imputation completed in 758.7 seconds.
+[7 / 1] imputation started with 496 observations and 4818 varaibles.
+[7 / 1] imputation completed in 625.6 seconds.
+[7 / 9] imputation started with 494 observations and 4818 varaibles.
+[7 / 9] imputation completed in 748.5 seconds.
+[7 / 0] imputation started with 496 observations and 4818 varaibles.
+[7 / 0] imputation completed in 725.3 seconds.
+[7 / 3] imputation started with 496 observations and 4818 varaibles.
+[7 / 3] imputation completed in 750.8 seconds.
+[End][Region] 7 / 9 | [Elapsed] 760.7 seconds.
+[Start][Region] 8 / 9 | [Spots] 42 | 2434 / 2434.
+[8 / 0] imputation started with 411 observations and 4818 varaibles.
+[8 / 0] imputation completed in 558.2 seconds.
+[8 / 2] imputation started with 410 observations and 4818 varaibles.
+[8 / 2] imputation completed in 705.1 seconds.
+[8 / 5] imputation started with 410 observations and 4818 varaibles.
+[8 / 5] imputation completed in 613.8 seconds.
+[8 / 3] imputation started with 410 observations and 4818 varaibles.
+[8 / 3] imputation completed in 756.7 seconds.
+[8 / 9] imputation started with 409 observations and 4818 varaibles.
+[8 / 9] imputation completed in 726.8 seconds.
+[8 / 7] imputation started with 410 observations and 4818 varaibles.
+[8 / 7] imputation completed in 782.3 seconds.
+[8 / 6] imputation started with 410 observations and 4818 varaibles.
+[8 / 6] imputation completed in 757.5 seconds.
+[8 / 1] imputation started with 411 observations and 4818 varaibles.
+[8 / 1] imputation completed in 784.4 seconds.
+[8 / 4] imputation started with 410 observations and 4818 varaibles.
+[8 / 4] imputation completed in 784.4 seconds.
+[8 / 8] imputation started with 409 observations and 4818 varaibles.
+[8 / 8] imputation completed in 785.5 seconds.
+[End][Region] 8 / 9 | [Elapsed] 787.0 seconds.
+[MIST] 3/5 imputation done in 11275.72 seconds.
+[MAGIC] 3/5 imputation done in 33.47 seconds.
+  0%|          | 0/17 [00:00<?, ?it/s]  6%|▌         | 1/17 [00:01<00:29,  1.87s/it] 12%|█▏        | 2/17 [00:03<00:26,  1.78s/it] 18%|█▊        | 3/17 [00:05<00:24,  1.72s/it] 24%|██▎       | 4/17 [00:06<00:21,  1.68s/it] 29%|██▉       | 5/17 [00:08<00:19,  1.64s/it] 35%|███▌      | 6/17 [00:09<00:17,  1.62s/it] 41%|████      | 7/17 [00:11<00:16,  1.61s/it] 47%|████▋     | 8/17 [00:12<00:14,  1.63s/it] 53%|█████▎    | 9/17 [00:14<00:13,  1.64s/it] 59%|█████▉    | 10/17 [00:16<00:11,  1.59s/it] 65%|██████▍   | 11/17 [00:18<00:10,  1.72s/it] 71%|███████   | 12/17 [00:21<00:11,  2.30s/it] 76%|███████▋  | 13/17 [00:26<00:11,  2.94s/it] 82%|████████▏ | 14/17 [00:30<00:10,  3.47s/it] 88%|████████▊ | 15/17 [00:36<00:07,  3.99s/it] 94%|█████████▍| 16/17 [00:40<00:04,  4.10s/it]100%|██████████| 17/17 [00:45<00:00,  4.25s/it]100%|██████████| 17/17 [00:45<00:00,  2.65s/it][knnSmooth] 3/5 imputation done in 19.10 seconds.
+[spKNN] 3/5 imputation done in 90.92 seconds.
+[mcImpute] imputation started with 3722 observations and 4818 varaibles.
+[mcImpute] imputation completed in 2857.4 seconds.
+[mcImpute] 3/5 imputation done in 2887.42 seconds.
+MIST Data created in 125.02 seconds.
+Epsilon 0.750 is selected in 49.15 seconds.
+9 regions detected.
+[Start][Region] 0 / 9 | [Spots] 790 | 790 / 2434.
+
+[0 / 1] imputation started with 1084 observations and 4818 varaibles.
+[0 / 1] imputation completed in 2119.2 seconds.
+[0 / 4] imputation started with 1083 observations and 4818 varaibles.
+[0 / 4] imputation completed in 2128.8 seconds.
+[0 / 5] imputation started with 1083 observations and 4818 varaibles.
+[0 / 5] imputation completed in 2166.8 seconds.
+[0 / 6] imputation started with 1083 observations and 4818 varaibles.
+[0 / 6] imputation completed in 2224.4 seconds.
+[0 / 9] imputation started with 1082 observations and 4818 varaibles.
+[0 / 9] imputation completed in 2179.1 seconds.
+[0 / 0] imputation started with 1084 observations and 4818 varaibles.
+[0 / 0] imputation completed in 2447.9 seconds.
+[0 / 3] imputation started with 1084 observations and 4818 varaibles.
+[0 / 3] imputation completed in 2263.7 seconds.
+[0 / 8] imputation started with 1082 observations and 4818 varaibles.
+[0 / 8] imputation completed in 2536.1 seconds.
+[0 / 2] imputation started with 1084 observations and 4818 varaibles.
+[0 / 2] imputation completed in 2581.0 seconds.
+[0 / 7] imputation started with 1083 observations and 4818 varaibles.
+[0 / 7] imputation completed in 2540.4 seconds.
+[End][Region] 0 / 9 | [Elapsed] 2694.1 seconds.
+[Start][Region] 1 / 9 | [Spots] 102 | 892 / 2434.
+[1 / 8] imputation started with 463 observations and 4818 varaibles.
+[1 / 8] imputation completed in 625.6 seconds.
+[1 / 1] imputation started with 465 observations and 4818 varaibles.
+[1 / 1] imputation completed in 698.0 seconds.
+[1 / 7] imputation started with 464 observations and 4818 varaibles.
+[1 / 7] imputation completed in 682.3 seconds.
+[1 / 9] imputation started with 463 observations and 4818 varaibles.
+[1 / 9] imputation completed in 774.5 seconds.
+[1 / 6] imputation started with 464 observations and 4818 varaibles.
+[1 / 6] imputation completed in 795.7 seconds.
+[1 / 0] imputation started with 465 observations and 4818 varaibles.
+[1 / 0] imputation completed in 819.9 seconds.
+[1 / 4] imputation started with 464 observations and 4818 varaibles.
+[1 / 4] imputation completed in 865.1 seconds.
+[1 / 3] imputation started with 464 observations and 4818 varaibles.
+[1 / 3] imputation completed in 878.0 seconds.
+[1 / 2] imputation started with 464 observations and 4818 varaibles.
+[1 / 2] imputation completed in 885.5 seconds.
+[1 / 5] imputation started with 464 observations and 4818 varaibles.
+[1 / 5] imputation completed in 894.6 seconds.
+[End][Region] 1 / 9 | [Elapsed] 896.1 seconds.
+[Start][Region] 2 / 9 | [Spots] 386 | 1278 / 2434.
+[2 / 3] imputation started with 720 observations and 4818 varaibles.
+[2 / 3] imputation completed in 946.5 seconds.
+[2 / 1] imputation started with 720 observations and 4818 varaibles.
+[2 / 1] imputation completed in 949.7 seconds.
+[2 / 2] imputation started with 720 observations and 4818 varaibles.
+[2 / 2] imputation completed in 950.7 seconds.
+[2 / 9] imputation started with 718 observations and 4818 varaibles.
+[2 / 9] imputation completed in 1061.9 seconds.
+[2 / 5] imputation started with 720 observations and 4818 varaibles.
+[2 / 5] imputation completed in 1380.6 seconds.
+[2 / 4] imputation started with 720 observations and 4818 varaibles.
+[2 / 4] imputation completed in 1203.5 seconds.
+[2 / 8] imputation started with 718 observations and 4818 varaibles.
+[2 / 8] imputation completed in 1240.5 seconds.
+[2 / 6] imputation started with 720 observations and 4818 varaibles.
+[2 / 6] imputation completed in 1385.9 seconds.
+[2 / 0] imputation started with 720 observations and 4818 varaibles.
+[2 / 0] imputation completed in 1461.6 seconds.
+[2 / 7] imputation started with 720 observations and 4818 varaibles.
+[2 / 7] imputation completed in 1492.6 seconds.
+[End][Region] 2 / 9 | [Elapsed] 1495.3 seconds.
+[Start][Region] 3 / 9 | [Spots] 65 | 1343 / 2434.
+[3 / 1] imputation started with 431 observations and 4818 varaibles.
+[3 / 1] imputation completed in 931.7 seconds.
+[3 / 6] imputation started with 431 observations and 4818 varaibles.
+[3 / 6] imputation completed in 937.6 seconds.
+[3 / 0] imputation started with 431 observations and 4818 varaibles.
+[3 / 0] imputation completed in 1002.9 seconds.
+[3 / 7] imputation started with 431 observations and 4818 varaibles.
+[3 / 7] imputation completed in 1005.3 seconds.
+[3 / 8] imputation started with 430 observations and 4818 varaibles.
+[3 / 8] imputation completed in 995.3 seconds.
+[3 / 5] imputation started with 431 observations and 4818 varaibles.
+[3 / 5] imputation completed in 1119.7 seconds.
+[3 / 3] imputation started with 431 observations and 4818 varaibles.
+[3 / 3] imputation completed in 1140.7 seconds.
+[3 / 2] imputation started with 431 observations and 4818 varaibles.
+[3 / 2] imputation completed in 1139.6 seconds.
+[3 / 4] imputation started with 431 observations and 4818 varaibles.
+[3 / 4] imputation completed in 970.1 seconds.
+[3 / 9] imputation started with 429 observations and 4818 varaibles.
+[3 / 9] imputation completed in 1036.3 seconds.
+[End][Region] 3 / 9 | [Elapsed] 1142.1 seconds.
+[Start][Region] 4 / 9 | [Spots] 163 | 1506 / 2434.
+[4 / 1] imputation started with 519 observations and 4818 varaibles.
+[4 / 1] imputation completed in 1056.8 seconds.
+[4 / 0] imputation started with 520 observations and 4818 varaibles.
+[4 / 0] imputation completed in 1284.3 seconds.
+[4 / 5] imputation started with 519 observations and 4818 varaibles.
+[4 / 5] imputation completed in 1331.7 seconds.
+[4 / 7] imputation started with 519 observations and 4818 varaibles.
+[4 / 7] imputation completed in 1360.8 seconds.
+[4 / 2] imputation started with 519 observations and 4818 varaibles.
+[4 / 2] imputation completed in 1381.5 seconds.
+[4 / 9] imputation started with 518 observations and 4818 varaibles.
+[4 / 9] imputation completed in 1400.0 seconds.
+[4 / 6] imputation started with 519 observations and 4818 varaibles.
+[4 / 6] imputation completed in 1401.8 seconds.
+[4 / 3] imputation started with 519 observations and 4818 varaibles.
+[4 / 3] imputation completed in 1406.7 seconds.
+[4 / 8] imputation started with 518 observations and 4818 varaibles.
+[4 / 8] imputation completed in 1413.2 seconds.
+[4 / 4] imputation started with 519 observations and 4818 varaibles.
+[4 / 4] imputation completed in 1423.7 seconds.
+[End][Region] 4 / 9 | [Elapsed] 1425.2 seconds.
+[Start][Region] 5 / 9 | [Spots] 201 | 1707 / 2434.
+[5 / 9] imputation started with 552 observations and 4818 varaibles.
+[5 / 9] imputation completed in 808.3 seconds.
+[5 / 4] imputation started with 553 observations and 4818 varaibles.
+[5 / 4] imputation completed in 809.6 seconds.
+[5 / 0] imputation started with 554 observations and 4818 varaibles.
+[5 / 0] imputation completed in 936.2 seconds.
+[5 / 6] imputation started with 553 observations and 4818 varaibles.
+[5 / 6] imputation completed in 1118.5 seconds.
+[5 / 8] imputation started with 552 observations and 4818 varaibles.
+[5 / 8] imputation completed in 1134.2 seconds.
+[5 / 1] imputation started with 554 observations and 4818 varaibles.
+[5 / 1] imputation completed in 1140.0 seconds.
+[5 / 3] imputation started with 553 observations and 4818 varaibles.
+[5 / 3] imputation completed in 1164.0 seconds.
+[5 / 5] imputation started with 553 observations and 4818 varaibles.
+[5 / 5] imputation completed in 1166.9 seconds.
+[5 / 2] imputation started with 554 observations and 4818 varaibles.
+[5 / 2] imputation completed in 1185.5 seconds.
+[5 / 7] imputation started with 553 observations and 4818 varaibles.
+[5 / 7] imputation completed in 1187.6 seconds.
+[End][Region] 5 / 9 | [Elapsed] 1189.8 seconds.
+[Start][Region] 6 / 9 | [Spots] 548 | 2255 / 2434.
+[6 / 0] imputation started with 866 observations and 4818 varaibles.
+[6 / 0] imputation completed in 2014.0 seconds.
+[6 / 6] imputation started with 865 observations and 4818 varaibles.
+[6 / 6] imputation completed in 2224.5 seconds.
+[6 / 4] imputation started with 866 observations and 4818 varaibles.
+[6 / 4] imputation completed in 2183.5 seconds.
+[6 / 1] imputation started with 866 observations and 4818 varaibles.
+[6 / 1] imputation completed in 2236.0 seconds.
+[6 / 7] imputation started with 865 observations and 4818 varaibles.
+[6 / 7] imputation completed in 2302.4 seconds.
+[6 / 2] imputation started with 866 observations and 4818 varaibles.
+[6 / 2] imputation completed in 2311.6 seconds.
+[6 / 8] imputation started with 864 observations and 4818 varaibles.
+[6 / 8] imputation completed in 2362.0 seconds.
+[6 / 5] imputation started with 866 observations and 4818 varaibles.
+[6 / 5] imputation completed in 2375.5 seconds.
+[6 / 3] imputation started with 866 observations and 4818 varaibles.
+[6 / 3] imputation completed in 2380.7 seconds.
+[6 / 9] imputation started with 864 observations and 4818 varaibles.
+[6 / 9] imputation completed in 2098.6 seconds.
+[End][Region] 6 / 9 | [Elapsed] 2382.8 seconds.
+[Start][Region] 7 / 9 | [Spots] 137 | 2392 / 2434.
+[7 / 4] imputation started with 496 observations and 4818 varaibles.
+[7 / 4] imputation completed in 601.7 seconds.
+[7 / 6] imputation started with 496 observations and 4818 varaibles.
+[7 / 6] imputation completed in 641.5 seconds.
+[7 / 5] imputation started with 496 observations and 4818 varaibles.
+[7 / 5] imputation completed in 651.6 seconds.
+[7 / 9] imputation started with 494 observations and 4818 varaibles.
+[7 / 9] imputation completed in 796.9 seconds.
+[7 / 2] imputation started with 496 observations and 4818 varaibles.
+[7 / 2] imputation completed in 808.4 seconds.
+[7 / 8] imputation started with 494 observations and 4818 varaibles.
+[7 / 8] imputation completed in 722.1 seconds.
+[7 / 7] imputation started with 495 observations and 4818 varaibles.
+[7 / 7] imputation completed in 856.8 seconds.
+[7 / 3] imputation started with 496 observations and 4818 varaibles.
+[7 / 3] imputation completed in 849.4 seconds.
+[7 / 0] imputation started with 496 observations and 4818 varaibles.
+[7 / 0] imputation completed in 865.8 seconds.
+[7 / 1] imputation started with 496 observations and 4818 varaibles.
+[7 / 1] imputation completed in 848.2 seconds.
+[End][Region] 7 / 9 | [Elapsed] 867.3 seconds.
+[Start][Region] 8 / 9 | [Spots] 42 | 2434 / 2434.
+[8 / 6] imputation started with 410 observations and 4818 varaibles.
+[8 / 6] imputation completed in 553.8 seconds.
+[8 / 2] imputation started with 410 observations and 4818 varaibles.
+[8 / 2] imputation completed in 638.7 seconds.
+[8 / 3] imputation started with 410 observations and 4818 varaibles.
+[8 / 3] imputation completed in 754.5 seconds.
+[8 / 9] imputation started with 409 observations and 4818 varaibles.
+[8 / 9] imputation completed in 757.9 seconds.
+[8 / 1] imputation started with 411 observations and 4818 varaibles.
+[8 / 1] imputation completed in 780.1 seconds.
+[8 / 0] imputation started with 411 observations and 4818 varaibles.
+[8 / 0] imputation completed in 807.6 seconds.
+[8 / 7] imputation started with 410 observations and 4818 varaibles.
+[8 / 7] imputation completed in 807.9 seconds.
+[8 / 8] imputation started with 409 observations and 4818 varaibles.
+[8 / 8] imputation completed in 809.1 seconds.
+[8 / 4] imputation started with 410 observations and 4818 varaibles.
+[8 / 4] imputation completed in 827.3 seconds.
+[8 / 5] imputation started with 410 observations and 4818 varaibles.
+[8 / 5] imputation completed in 833.8 seconds.
+[End][Region] 8 / 9 | [Elapsed] 835.2 seconds.
+[MIST] 4/5 imputation done in 12950.67 seconds.
+[MAGIC] 4/5 imputation done in 68.27 seconds.
+[knnSmooth] 4/5 imputation done in 40.59 seconds.
+[spKNN] 4/5 imputation done in 109.04 seconds.
+[mcImpute] imputation started with 3722 observations and 4818 varaibles.
+[mcImpute] imputation completed in 12752.2 seconds.
+[mcImpute] 4/5 imputation done in 12812.81 seconds.
