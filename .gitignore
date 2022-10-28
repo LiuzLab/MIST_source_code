@@ -1,3 +1,5 @@
 .DS_Store
 __pycache__/
 .ipynb_checkpoints/
+october22/data/
+october22/coexpression_scRNA/
