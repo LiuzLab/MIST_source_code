@@ -21,7 +21,7 @@ Or, users could manually install all required dependencies as below:
   * python=3.9
 
 ## Reproduce figures in the manuscript
-All the code to reproduce the figures and quantification results are in folder `analysis_scripts`. Title of each jupyter notebook indicates which figures it generates.
+All the code to reproduce the latest figures and quantification results are in folder `october22`. Folder `submission_ini` corresponds to the first version of the code and `august2022` includes code for the paper revision in August 2022. Title of each jupyter notebook indicates which figures it generates.
 
 ## Data for manuscripts
 Data sets are too large to be shared. All data sets are publicly available with links specified in the supplementary table 1 in the manuscript.
